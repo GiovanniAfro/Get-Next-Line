@@ -62,4 +62,5 @@ Feel free to add your get_next_line() function to your libft once it is complete
 
 This project aims to improve your C programming skills, particularly in handling file descriptors and static variables. It provides a valuable function for reading lines from file descriptors, making your code more efficient and user-friendly.
 
+![](n46h9ay1rd291.gif)
 
